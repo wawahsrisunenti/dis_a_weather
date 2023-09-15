@@ -1,1 +1,4 @@
-# dis_a_weather
+/* project aplikasi cuaca yang dibuat oleh Wawah Sri Sunenti
+dengan menggunakan API PHP Native 
+sebagai praktik pembelajaran magang di PT. Gerbang Sinergi Prima 
+*/
